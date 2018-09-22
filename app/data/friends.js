@@ -2,7 +2,7 @@ var friends = [
 	
 	{
 		name: "Tony Stark",
-		photo: "https://photos.google.com/photo/AF1QipM80aPEOYbSfvpMWK8tEZ26NM0zJs-JDj4Uf2M",
+		photo: "https://cdn.instructables.com/FFV/Y7ZI/FGUEUPUO/FFVY7ZIFGUEUPUO.LARGE.jpg",
 		scores: [
 			"5",
 			"1",
@@ -18,7 +18,7 @@ var friends = [
 	},
 	{
 		name: "Olive Oyl",
-		photo: "https://photos.google.com/photo/AF1QipOmVcuXlfonF0FiN-tJuujUqDfk2ZaAF65ctR4?",
+		photo: "https://i.pinimg.com/236x/c9/22/49/c922496e1435a3a096ffd06ffec28c88--olive.jpg",
 		scores: [
 			"3",
 			"1",
@@ -34,7 +34,7 @@ var friends = [
 	},
 	{
 		name: "Wade Wilson",
-		photo: "https://photos.google.com/photo/AF1QipNwrToN6FuOvYNcJzS9X5GDdaphc0H4zZ7e0Qg?",
+		photo: "https://m.media-amazon.com/images/M/MV5BMTk3NDE5MzM3NF5BMl5BanBnXkFtZTgwNDQ3Nzk3ODE@._V1_.jpg",
 		score: [
 			"3",
 			"1",
