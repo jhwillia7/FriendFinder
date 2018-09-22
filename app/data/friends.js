@@ -18,7 +18,7 @@ var friends = [
 	},
 	{
 		name: "Olive Oyl",
-		photo: "https://photos.google.com/photo/AF1QipOmVcuXlfonF0FiN-tJuujUqDfk2ZaAF65ctR4",
+		photo: "https://photos.google.com/photo/AF1QipOmVcuXlfonF0FiN-tJuujUqDfk2ZaAF65ctR4?",
 		scores: [
 			"3",
 			"1",
@@ -34,7 +34,7 @@ var friends = [
 	},
 	{
 		name: "Wade Wilson",
-		photo: "https://photos.google.com/photo/AF1QipNwrToN6FuOvYNcJzS9X5GDdaphc0H4zZ7e0Qg",
+		photo: "https://photos.google.com/photo/AF1QipNwrToN6FuOvYNcJzS9X5GDdaphc0H4zZ7e0Qg?",
 		score: [
 			"3",
 			"1",
