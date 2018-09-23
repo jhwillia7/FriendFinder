@@ -34,17 +34,17 @@ I leverage body-parser, express and path node modules.
 ### Application Images
 
 ---
-![Image Friend Finder Main page](https://github.com/jhwillia7/B-Amazon-MySQL/blob/master/images/Customer_View_initial.PNG)
+![Image Friend Finder Main page](https://github.com/jhwillia7/FriendFinder/blob/master/images/friendFinderMainPage.PNG)
 ---
 
 ---
-   ![Image API Friends List](https://github.com/jhwillia7/B-Amazon-MySQL/blob/master/images/insufficient_quantity.PNG)
+   ![Image API Friends List](https://github.com/jhwillia7/FriendFinder/blob/master/images/apiFriendsList.PNG)
 ---
 
 ---
-   ![Image Survey](https://github.com/jhwillia7/B-Amazon-MySQL/blob/master/images/Customer_Buy_Nike.PNG)
+   ![Image Survey](https://github.com/jhwillia7/FriendFinder/blob/master/images/surveyQuestions.PNG)
 ---
 
 ---
-   ![Image Match Result When Survey Submit](https://github.com/jhwillia7/B-Amazon-MySQL/blob/master/images/managerview_prod_4sale.PNG)
+   ![Image Match Result When Survey Submit](https://github.com/jhwillia7/FriendFinder/blob/master/images/bestMatchResult.PNG)
 ---
