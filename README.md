@@ -31,20 +31,24 @@ I leverage body-parser, express and path node modules.
     - server.js
   ```
 
-### Application Images
+## Application Images
 
+### Friend Finder Main Page
 ---
 ![Image Friend Finder Main page](https://github.com/jhwillia7/FriendFinder/blob/master/images/friendFinderMainPage.PNG)
 ---
 
+### Friend Finder API Friends List
 ---
    ![Image API Friends List](https://github.com/jhwillia7/FriendFinder/blob/master/images/apiFriendsList.PNG)
 ---
 
+### Friend Finder Survey
 ---
    ![Image Survey](https://github.com/jhwillia7/FriendFinder/blob/master/images/surveyQuestions.PNG)
 ---
 
+### Friend Finder Match Results
 ---
    ![Image Match Result When Survey Submit](https://github.com/jhwillia7/FriendFinder/blob/master/images/bestMatchResult.PNG)
 ---
